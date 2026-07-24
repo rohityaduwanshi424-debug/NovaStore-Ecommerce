@@ -12,7 +12,6 @@ A modern responsive E-commerce website built using HTML, CSS and JavaScript.
 - Product Sorting
 - Quick View Modal
 - Dark Mode
-- Newsletter Subscription
 - Toast Notifications
 - Loader Animation
 - Local Storage
